@@ -40,7 +40,7 @@ const Navbar = () => {
         ) : (
           <div className="navItems">
             <Link
-              to="/"
+              to="/signin"
               style={{ color: "inherit", textDecoration: "none" }}
               className="navButton"
             >
