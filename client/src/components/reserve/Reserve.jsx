@@ -62,7 +62,8 @@ const Reserve = ({ setOpen, hotelId }) => {
         })
       );
       setOpen(false);
-      navigate("/");
+      navigate("/")
+      alert("after reserving you need to pay upfront")
     } catch (err) {}
   };
   return (
