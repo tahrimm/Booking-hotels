@@ -68,8 +68,7 @@ const handlesignin = () => {navigate("signin")};
               A lifetime of discounts? It's Genius.
             </h1>
             <p className="headerDesc">
-              Get rewarded for your travels – unlock instant savings of 10% or
-              more with a free Lamabooking account
+              Get rewarded for your travels – unlock instant savings of 10%.
             </p>
             {!user && <button onClick={handlesignin} className="headerBtn">Sign in / Register</button>}
             <div className="headerSearch">
