@@ -13,7 +13,7 @@ const Featured = () => {
         <>
           <div className="featuredItem">
             <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bangladesh_Bank_%2833398162476%29.jpg/288px-Bangladesh_Bank_%2833398162476%29.jpg"
+              src="https://i.guim.co.uk/img/media/a6fd9508fe930b3d16d06e18ee1ff465c05c736d/0_333_5329_3198/master/5329.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=b45b227866d9a25b5d4816cabf2f18f9"
               alt=""
               className="featuredImg"
             />
